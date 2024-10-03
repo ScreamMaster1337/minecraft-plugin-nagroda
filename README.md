@@ -29,7 +29,7 @@ Plugin automatycznie tworzy pliki konfiguracyjne, w których można dostosować:
 
 bot:
   token: "discord-bot-token"
-  allowed_role: "verified-role-id"
+  allowed_role: "access-role-id"
   activity:
     type: "WATCHING"
     name: "M4CODE.PL"
