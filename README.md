@@ -62,7 +62,7 @@ commands:
   - "say Nadano range VIP"
 ```
 
-### Przykład konfiguracji (`messages.yml`):
+### Przykład wiadomości (`messages.yml`):
 
 ```yaml
 # ODBIERZ #
