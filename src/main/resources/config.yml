@@ -1,0 +1,34 @@
+# BOT #
+
+bot:
+  token: ""
+  allowed_role: ""
+  activity:
+    type: "WATCHING"
+    name: "M4CODE.PL"
+
+# DATABASE #
+
+database:
+  host: ""
+  port: ""
+  name: ""
+  user: ""
+  password: ""
+
+# ITEMKI #
+items:
+  material: "DIAMOND"
+  amount: 1
+  name: ""
+  lore: []
+  flags: []
+  custom_model_data: 0
+  enchantments:
+    - name: UNBREAKING
+      level: 3
+
+# KOMENDY #
+commands:
+  - "lp user %player% parent set vip"
+  - "say Nadano range"

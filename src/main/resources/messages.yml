@@ -1,0 +1,25 @@
+# ODBIERZ #
+
+odbierz:
+  error: "&8» &9Odebrałeś już swoją nagrodę!"
+  code_message1: "&8» &9Oto twój kod, przepisz go na kanale #odbierz na discordzie."
+  code_message2: "&8» &9 {kod}"
+  code_title: "&8» &9 {kod}"
+  success: "&8» &aPomyślnie odebrano nagrodę"
+
+# EMBED #
+
+embed:
+  title: "M4CODE.PL・ŁĄCZENIE KONTA"
+  color: "#6d08d5"
+  description: "Aby połączyć konto wykonaj poniższe kroki:\n\n1. Połącz się na serwer przez adres **m4code.pl**\n2. Wpisz komendę /odbierz\n3. Naciśnij przycisk **Połącz**"
+  footer: "© 2024 M4CODE.PL"
+  label: "Połącz"
+  style: "secondary"
+
+# DISCORD #
+discord:
+  error-dc: "To konto Discord już odebrało nagrodę"
+  error: "Już odebrałeś swoją nagrodę!"
+  success: "Odebrałeś nagrodę {nick}"
+
